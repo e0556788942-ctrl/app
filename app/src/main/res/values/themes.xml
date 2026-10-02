@@ -1,0 +1,5 @@
+<resources>
+<style name="Theme.SmartFileManager" parent="android:style/Theme.Material.Light.NoActionBar">
+<item name="android:fontFamily">sans</item><item name="android:statusBarColor">#14213D</item><item name="android:navigationBarColor">#F7F9FC</item><item name="android:windowLightStatusBar">false</item><item name="android:colorAccent">#3159D7</item>
+</style>
+</resources>
